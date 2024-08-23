@@ -1,6 +1,6 @@
-# Hola, soy [Julio César] 👋
+# Hola, soy Julio César 👋
 
-Soy [ingeniero en sistemas computacionales] 💻 con experiencia en desarrollo web 🌐 utilizando la arquitectura MVC. Me apasiona aprender cosas nuevas todos los días. Aquí puedes encontrar algunos de mis proyectos y colaboraciones.
+Soy Ingeniero en Sistemas Computacionales 💻 con experiencia en desarrollo web 🌐 utilizando la arquitectura MVC. Me apasiona aprender cosas nuevas todos los días. Aquí puedes encontrar algunos de mis proyectos y colaboraciones.
 
 - [Mi portafolio](https://juliocesar-web.vercel.app/)
 
